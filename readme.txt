@@ -1,23 +1,5 @@
-<JAVA 언어로 배우는 디자인 패턴 입문 3판> 예제 프로그램
-
-■ 소개
-
-이 아카이브는 유키 히로시의 "Java 언어로 배우는 디자인 패턴 입문 3판"의 예제 프로그램입니다.
-
-예제 프로그램의 최신 버전은 다음 웹사이트에서 구할 수 있습니다.
-
-https://www.youngjin.com/reader/pds/pds.asp
-
-■ 디렉토리 구조
-
-디렉토리 구조는 다음과 같습니다.
-
-SampleCode/패턴이름/Sample	예제 프로그램
-SampleCode/패턴이름/Q☆...	연습 문제에 등장하는 리스트(☆는 문제 번호)
-SampleCode/패턴이름/A☆...	해답에 등장하는 리스트(☆는 문제 번호)
-
-   --- SampleCode
-      +------ readme.txt
+ 
+ 
       +------ 17 Observer
       |       +------ Sample
       |       |       +------ DigitObserver.java
@@ -45,9 +27,7 @@ SampleCode/패턴이름/A☆...	해답에 등장하는 리스트(☆는 문제 �
       |       |       .
       |       .       .
       .       .
-      .
-
-■ 이 아카이브에 포함된 파일에 대한 라이센스
+      . 
 
 MIT License
 
